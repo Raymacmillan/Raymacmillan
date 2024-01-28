@@ -1,3 +1,3 @@
-Hi there! My name is Ray McMillan Gumbo aspiring to be a Software Developer. Obsessed with learning new technology from HTML,CSS,Javascript,Typescript,React to Flutter,Android development,etc essentially everything that there is to learn about programming. 
+Hey folks! Software Dev here, with an insanely weird enthusiasm of tech. Currently exploring the depths of Web technology, mastering the art of React.js Next.js JavaScript, Java, Python and of course the HTML5 and CSS3. Looking forward to collaborating with other fellow dev mates so feel free to contact me. Very soon will also look into Data Science(Machine Learning) which is the core reasons I'm learning Python at the moment. Open to learning any near and Interesting technologies.
 
-I wanna useful and proficient in the field of Computer Science so i'm open to learning and obtaining as much information i can
+Also into Cybersecurity. Connect with me on Discord(raykun12) or X(RyoGenxx). Thanks!
