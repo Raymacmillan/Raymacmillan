@@ -1,4 +1,3 @@
-About Me
 Education: 3rd Year Computer Science student at the University of Botswana (Class of 2027).
 
 Origin: Zimbabwean resident in Botswana, aiming for the global tech market in Japan, Canada, Australia, and Germany.
